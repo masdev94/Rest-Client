@@ -754,12 +754,3 @@ no-cookie-jar | `# @no-cookie-jar` | Don't save cookies in the cookie jar
 
 ## License
 [MIT License](LICENSE)
-
-## Change Log
-See CHANGELOG [here](CHANGELOG.md)
-
-## Special Thanks
-All the amazing [contributors](https://github.com/Huachao/vscode-restclient/graphs/contributors)❤️
-
-## Feedback
-Please provide feedback through the [GitHub Issue](https://github.com/Huachao/vscode-restclient/issues) system, or fork the repository and submit PR.
